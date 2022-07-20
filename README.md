@@ -7,7 +7,7 @@
 - By working on this ticket I learned that it is extrememly important to allow everyone, no matter what disability they might have, to have equal access to the information given by this webpage. 
 
 ## Website 
-Week 1\repos-self\horiseon.png
+![Horiseon](https://michiganstate.bootcampcontent.com/michiganstate-bootcamp/MSU-VIRT-FSF-PT-07-2022-U-LOLC-ENTG/-/raw/main/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png)
 
 ## Deployed Application 
 https://neuy16.github.io/Disability-accessibility-challenge/
